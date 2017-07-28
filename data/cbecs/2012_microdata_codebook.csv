@@ -1,0 +1,1120 @@
+PUBID|Building identifier
+REGION|Census region
+CENDIV|Census division
+PBA|Principal building activity
+FREESTN|Freestanding building
+SQFT|Square footage
+SQFTC|Square footage category
+WLCNS|Wall construction material
+RFCNS|Roof construction material
+RFCOOL|Cool roof materials
+RFTILT|Roof tilt
+BLDSHP|Building shape
+GLSSPC|Percent exterior glass
+EQGLSS|Equal glass on all sides
+SUNGLS|Glass sides most sunlight
+NFLOOR|Number of floors
+BASEMNT|Number of underground floors
+FLCEILHT|Floor to ceiling height
+ATTIC|Attic
+ELEVTR|Elevators
+NELVTR|Number of elevators
+ESCLTR|Escalators
+NESLTR|Number of escalators
+YRCON|Year of construction
+YRCONC|Year of construction category
+MONCON|Month ready for occupancy
+RENOV|Any renovations
+RENADD|Addition or annex
+RENRDC|Reduction of floorspace
+RENCOS|Cosmetic improvements
+RENINT|Interior wall re-configuration
+RENRFF|Roof replacement
+RENWLL|Exterior wall replacement
+RENWIN|Window replacement
+RENHVC|HVAC equipment upgrade
+RENLGT|Lighting upgrade
+RENPLB|Plumbing system upgrade
+RENELC|Electrical upgrade
+RENINS|Insulation upgrade
+RENSAF|Fire, safety, or security upgrade
+RENSTR|Structural upgrade
+RENOTH|Other renovation
+ONEACT|One activity in building
+ACT1|First activity in building
+ACT2|Second activity in building
+ACT3|Third activity in building
+ACT1PCT|Percent used for first activity
+ACT2PCT|Percent used for second activity
+ACT3PCT|Percent used for third activity
+PBAPLUS|More specific building activity
+|More specific building activity, continued
+DRYCL|Dry cleaning onsite
+VACANT|Completely vacant
+CUBE|Open plan office space
+CUBEC|Percent open plan
+CUBELOC|Location of open plan
+RWSEAT|Religious worship seating capacity
+PBSEAT|Assembly seating capacity
+EDSEAT|Number of classroom seats
+FDSEAT|Food service seating capacity
+HCBED|Licensed bed capacity
+NRSBED|Licensed bed capacity
+LODGRM|Number of guest rooms
+COURT|Food court
+FACIL|On a multibuilding complex
+FEDFAC|Federal complex
+FACACT|Type of complex
+MANIND|Manufacturing industrial complex
+PLANT|Central physical plant on complex
+FACDST|Plant produces district steam
+FACDHW|Plant produces district hot water
+FACDCW|Plant produces district chilled water
+FACELC|Plant produces electricity
+BLDPLT|Central plant in building
+GOVOWN|Government owned
+GOVTYP|Type of government
+OWNTYPE|Building owner
+NOCC|Number of businesses
+NOCCAT|Number of businesses category
+OWNOCC|Owner occupied or leased to tenant(s)
+OWNOPR|Owner responsible for operation and maintenance of energy systems
+OWNPPR|Owner has purchasing power for energy-related equipment
+NWNPPR|Nonowner with purchasing power for energy-related equipment
+NWNOPR|Nonowner responsible for operation and maintenance of energy systems
+WHOPPR|Who has purchasing power
+MONUSE|Months in use
+OCCUPYP|Percent occupancy
+LODOCCP|Lodging room percent occupancy
+OPEN24|Open 24 hours a day
+OPNMF|Open during week
+OPNWE|Open on weekend
+WKHRS|Total hours open per week
+WKHRSC|Weekly hours category
+NWKER|Number of employees
+NWKERC|Number of employees category
+HT1|Energy used for main heating
+HT2|Energy used for secondary heating
+COOL|Energy used for cooling
+WATR|Energy used for water heating
+COOK|Energy used for cooking
+MANU|Energy used for manufacturing
+CAPGEN|Electricity generation capability
+GENR|Energy used for electricity generation
+ANYEGY|Any energy used
+ELUSED|Electricity used
+NGUSED|Natural gas used
+FKUSED|Fuel oil/diesel/kerosene used
+FKTYPE|Specify fuel oil, diesel, or kerosene
+PRUSED|Bottled gas/LPG/propane used
+STUSED|District steam used
+HWUSED|District hot water used
+CWUSED|District chilled water used
+WOUSED|Wood used
+COUSED|Coal used
+SOUSED|Solar used
+OTUSED|Other energy source used
+ELHT1|Electricity used for main heating
+NGHT1|Natural gas used for main heating
+FKHT1|Fuel oil used for main heating
+PRHT1|Propane used for main heating
+STHT1|District steam used for main heating
+HWHT1|District hot water used for main heating
+WOHT1|Wood used for main heating
+COHT1|Coal used for main heating
+SOHT1|Solar used for main heating
+OTHT1|Other source used for main heating
+ELHT2|Electricity used for secondary heating
+NGHT2|Natural gas used for secondary heating
+FKHT2|Fuel oil used for secondary heating
+PRHT2|Propane used for secondary heating
+STHT2|District steam used for secondary heating
+HWHT2|District hot water used for secondary heating
+WOHT2|Wood used for secondary heating
+COHT2|Coal used for secondary heating
+SOHT2|Solar used for secondary heating
+OTHT2|Other source used for secondary heating
+HEATP|Percent heated
+HTLS50|Heated to less than 50 degrees
+FURNAC|Furnaces that heat air directly
+PKGHT|Packaged heating units
+BOILER|Boilers inside the building
+STHW|District steam or hot water piped in
+HTPMPH|Heat pumps for heating
+SLFCON|Individual space heaters
+OTHTEQ|Other heating equipment
+FURNP|Percent heated by furnace
+PKGHP|Percent heated by packaged heating
+BOILP|Percent heated by boiler
+STHWP|Percent heated by dist steam/hot water
+HTPHP|Percent heated by heat pumps
+SLFCNP|Percent heated by individual space heaters
+OTHTP|Percent heated by other heating equipment
+MAINHT|Main heating equipment
+NWMNHT|Main heating replaced
+PKGHTTYP|Type of packaged heating
+PKGFURN|Packaged heating component: Furnace
+PKGHTP|Packaged heating component: Heat pump
+PKGCOIL|Packaged heating component: Heating coil
+PKGPIU|Packaged heating component: Powered induction unit
+PKGDUCT|Packaged heating component: Duct reheat
+BLRRAD|Boiler system: Radiators
+BLRFNCL|Boiler system: Fan coil units in rooms
+BLRINDC|Boiler system: Induction units
+BLRLOOP|Boiler system: Water loop heat pump
+BLRAIR|Boiler system: Central air handler
+BLRPKG|Boiler system: Packaged unit
+BLRDUCT|Boiler system: Duct reheat
+DHRAD|District heat system: Radiators
+DHFNCL|District heat system: Fan coil units in rooms
+DHINDC|District heat system: Induction units
+DHLOOP|District heat system: Water loop heat pump
+DHAIR|District heat system: Central air handler
+DHPKG|District heat system: Packaged unit
+DHDUCT|District heat system: Duct reheat
+HPHPKG|Heat pump heating system: Packaged unit
+HPHSPLT|Heat pump heating system: Split system
+HPHROOM|Heat pump heating system: Individual room heat pump
+HPHMINI|Heat pump heating system: Ductless mini-split
+HPHVRF|Heat pump heating system: Variable refrigerant flow
+HPHAIR|Heat pump heating type: Air source
+HPHGRD|Heat pump heating type: Ground source
+HPHDUAL|Heat pump heating type: Dual source
+HPHWTR|Heat pump heating type: Water loop
+HPHBKUP|Heat pump backup energy source
+SHRDNT|Individual heater: Infrared radiant
+SHBBRD|Individual heater: Baseboard
+SHPORT|Individual heater: Portable space heater
+SHWALL|Individual heater: Wall heater
+SHFURN|Individual heater: Individual furnace
+SHUNIT|Individual heater: Unit heater
+SHPTAC|Individual heater: Heating element in PTAC
+OTSTRP|Other heat component: Heating coil or heat strip
+OTDUCT|Other heat component: Duct or electric reheat
+OTPIU|Other heat component: Powered induction units
+HTVCAV|Heating ventilation: Central air handling with CAV
+HTVVAV|Heating ventilation: Central air handling with VAV
+HTVFLR|Heating ventilation: Underfloor air distribution
+HTVOAS|Heating ventilation: Dedicated outside air system
+HTVDEM|Heating ventilation: Demand controlled ventilation
+HTVNON|Heating ventilation: None of these
+ELCOOL|Electricity used for cooling
+NGCOOL|Natural gas used for cooling
+FKCOOL|Fuel oil used for cooling
+PRCOOL|Propane used for cooling
+STCOOL|District steam  used for cooling
+HWCOOL|District hot water used for cooling
+CWCOOL|District chilled water used for cooling
+OTCOOL|Other source used for cooling
+COOLP|Percent cooled
+RCAC|Residential type central A/C
+PKGCL|Packaged A/C units
+CHILLR|Central chillers inside the building
+CHWT|District chilled water piped in
+HTPMPC|Heat pumps for cooling
+ACWNWL|Individual room air conditioners
+EVAPCL|Evaporative or swamp coolers
+OTCLEQ|Other cooling equipment
+RCACP|Percent cooled by central A/C
+PKGCP|Percent cooled by packaged A/C units
+CHILP|Percent cooled by central chillers
+CHWTP|Percent cooled by district chilled water
+HTPCP|Percent cooled by heat pumps
+ACWNWP|Percent cooled by individual room A/C
+EVAPP|Percent cooled by swamp coolers
+OTCLP|Percent cooled by other cooling equipment
+MAINCL|Main cooling equipment
+NWMNCL|Main cooling replaced
+PKGCLTYP|Type of packaged cooling
+CHLAIRCL|Chiller type: Air-cooled
+CHLWTRCL|Chiller type: Water cooled
+CHLABSRP|Chiller type: Absorption
+HTRCHLR|Heater chiller
+CHLAIR|Chiller system: Central air handler
+CHLFNCL|Chiller system: Fan coil units in rooms
+CHLINDC|Chiller system: Induction units
+CHLLOOP|Chiller system: Water loop heat pump
+CHLBEAM|Chiller system: Chilled beam
+CHLPKG|Chiller system: Packaged unit
+CHLDUCT|Chiller system: Duct reheat
+DCWAIR|District CW system: Central air handler
+DCWFNCL|District CW system: Fan coil units in rooms
+DCWINDC|District CW system: Induction units
+DCWLOOP|District CW system: Water loop heat pump
+DCWBEAM|District CW system: Chilled beam
+DCWPKG|District CW system: Packaged unit
+DCWDUCT|District CW system: Duct reheat
+HPCPKG|Heat pump cooling system: Packaged unit
+HPCSPLT|Heat pump cooling system: Split system
+HPCROOM|Heat pump cooling system: Individual room heat pump
+HPCMINI|Heat pump cooling system: Ductless mini-split
+HPCVRF|Heat pump cooling system: Variable refrigerant flow
+HPCAIR|Heat pump cooling type: Air source
+HPCGRD|Heat pump cooling type: Ground source
+HPCDUAL|Heat pump cooling type: Dual source
+HPCWTR|Heat pump cooling type: Water loop
+CLVCAV|Cooling ventilation: Central air-handling unit with CAV
+CLVVAV|Cooling ventilation: Central air-handling unit with VAV
+CLVFLR|Cooling ventilation: Underfloor air distribution
+CLVOAS|Cooling ventilation: Dedicated outside air system
+CLVDEM|Cooling ventilation: Demand controlled ventilation
+CLVNON|Cooling ventilation: None of these types
+EMCS|Building automation system
+RDHTNF|Heating reduced during 24 hour period
+HWRDHT|How reduce heating
+RDCLNF|Cooling reduced during 24 hour period
+HWRDCL|How reduce cooling
+ECN|Economizer cycle
+ECNTYPE|Type of economizer
+MAINT|Regular HVAC maintenance
+ELWATR|Electricity used for water heating
+NGWATR|Natural gas used for water heating
+FKWATR|Fuel oil used for water heating
+PRWATR|Propane used for water heating
+STWATR|District steam used for water heating
+HWWATR|District hot water used for water heating
+WOWATR|Wood used for water heating
+COWATR|Coal used for water heating
+SOWATR|Solar used for water heating
+OTWATR|Other source used for water heating
+WTHTEQ|Water heating equipment
+BOOSTWT|Booster water heaters
+INSTWT|Instant hot water
+ELCOOK|Electricity used for cooking
+NGCOOK|Natural gas used for cooking
+FKCOOK|Fuel oil used for cooking
+PRCOOK|Propane used for cooking
+STCOOK|District steam used for cooking
+HWCOOK|District hot water used for cooking
+WOCOOK|Wood used for cooking
+COCOOK|Coal used for cooking
+SOCOOK|Solar used for cooking
+OTCOOK|Other source used for cooking
+ELMANU|Electricity used for manufacturing
+NGMANU|Natural gas used for manufacturing
+FKMANU|Fuel oil used for manufacturing
+PRMANU|Propane used for manufacturing
+STMANU|District steam used for manufacturing
+HWMANU|District hot water used for manufacturing
+WOMANU|Wood used for manufacturing
+COMANU|Coal used for manufacturing
+SOMANU|Solar used for manufacturing
+OTMANU|Other source used for manufacturing
+NGGENR|Natural gas used for electricity generation
+FKGENR|Fuel oil used for electricity generation
+PRGENR|Propane used for electricity generation
+WOGENR|Wood used for electricity generation
+COGENR|Coal used for electricity generation
+SOGENR|Solar used for electricity generation
+OTGENR|Other source used for electricity generation
+PVC|Photovoltaic cells
+FUELCL|Fuel cells
+LRGTRB|Large turbines
+MCROTB|Microturbines
+ENGINE|Reciprocating engines
+GENUSE|Use of generated electricity
+COGEN|Cogeneration system
+TOGRID|Deliver electricity to grid
+NGOTH|Natural gas for some other use
+FKOTH|Fuel oil for some other use
+PROTH|Propane for some other use
+STOTH|District steam for some other use
+HWOTH|District hot water for some other use
+CWOTH|District chilled water for some other use
+WOOTH|Wood for some other use
+COOTH|Coal for some other use
+SOOTH|Solar for some other use
+OTOTH|Other source for some other use
+ELLOCUT|Electricity from local utility
+ELNONLU|Electricity from IPP/non-local utility
+ELOTSRC|Electricity from some other source
+ELCPLT|Electricity from central plant
+ELLUPCT|Percent of elec from local utility
+NGSRC|How purchase natural gas
+PRAMTC|Bottled gas amount
+PRUNIT|Bottled gas units
+WOAMT|Amount wood burned
+WOSRC|How obtain wood
+WOEXP|Expenditures for wood
+WOEXPC|Wood expenditures category
+AMIMETER|AMI smart metering
+ENRGYPLN|Energy management plan
+SNACK|Snack bar or concession stand
+FASTFD|Fast food or small restaurant
+CAF|Cafeteria or large restaurant
+FDPREP|Commercial or large kitchen
+KITCHN|Small kitchen area
+BREAKRM|Employee lounge, breakroom, or pantry
+OTFDRM|Other food prep or serving area
+HWTRM|Large amounts of hot water
+LAUNDR|Laundry onsite
+CONFSP|Conference or event space
+CONFSPP|Percent conference or event space
+MEDEQP|Medical equipment
+XRAYN|Number of X-ray machines
+CTSCAN|CT scan machines
+MRI|MRI machines
+LINACC|Linear accelerators
+OUTSURG|Operating rooms for outpatient surgery
+LABEQP|Laboratory equipment
+MCHEQP|Machine equipment
+POOL|Indoor swimming pool
+HTPOOL|Heated indoor swimming pool
+POOLSRC|Pool energy source
+STRLZR|Sterilizers or autoclaves
+RFGEQP|Refrigeration
+RFGRES|Full-size residential-type refrigerator
+RFGCOMP|Half-size or compact refrigerators
+RFGWI|Walk-in refrigeration units
+RFGOP|Open case refrigeration units
+RFGCL|Closed case refrigeration units
+RFGVEN|Refrigerated vending machines
+RFGICE|Commercial ice makers
+RFGSTO|Large cold storage areas
+RFGRSN|Number of residential refrigerators
+RFGCOMPN|Number of compact refrigerators
+RFGWIN|Number of walk-in units
+RFGOPN|Number of open case refrigeration units
+RFGCLN|Number of closed case refrigeration units
+RFGVNN|Number of refrigerated vending machines
+RFGICN|Number of ice makers
+RFGSTP|Percent cold storage
+WHRECOV|Waste heat recovery
+WHHT2|Waste heat used for secondary heating
+WHWT|Waste heat used for water heating
+WHOT|Waste heat used for some other use
+PCTERM|Computers used
+PCTERMN|Number of computers
+PCTRMC|Number of computers category
+MLTMON|Multiple monitors
+MLTMNC|Multiple monitor category
+FLATC|Flat screen category
+LAPTPN|Number of laptops
+LAPTPC|Number of laptops category
+PRNTRN|Number of printers
+PRNTYP|Type of printers
+SERVER|Dedicated servers
+SERVERN|Number of servers
+SERVERC|Number of servers category
+DATACNTR|Data center or server farm
+DCNTRSFC|Data center or server farm sqft category
+TRNGRM|Computer-based training room
+STDNRM|Student or public computer center
+WBOARDS|Interactive whiteboards
+TVVIDEO|TV or video displays
+TVVIDEON|Number of TV or video displays
+RGSTR|Cash registers
+RGSTRN|Number of cash registers
+COPIER|Photocopiers
+COPIERN|Number of photocopiers
+FAX|FAX machines
+LTOHRP|Percent lit when open
+LOHRPC|Lit when open category
+LTNR24|Lights off during 24 hours
+LTNHRP|Percent lit off hours
+LNHRPC|Lit off hours category
+RDLTNF|Lighting reduced during off hours
+FLUOR|Fluorescent bulbs
+CFLR|Compact fluorescent bulbs
+BULB|Incandescent bulbs
+HALO|Halogen bulbs
+HID|High intensity discharge (HID) bulbs
+LED|Light-emitting diode (LED) bulbs
+OTLT|Other type of bulbs
+FLUORP|Percent lit by fluorescent
+CFLRP|Percent lit by compact fluorescent
+BULBP|Percent lit by incandescent
+HALOP|Percent lit by halogen
+HIDP|Percent lit by HID
+LEDP|Percent lit by LED
+OTLTP|Percent lit by other lighting
+EMCSLT|BAS controls lighting
+SCHED|Light scheduling
+OCSN|Occupancy sensors
+DIM|Multi-level lighting or dimming
+DAYHARV|Daylight harvesting
+TRIM|High-end trimming or light-level tuning
+PLGCTRL|Plug load control
+DRLGHT|Demand responsive lighting
+LTEXPC|Percent of exterior lighted
+PKLT|Lighted parking area
+WINTYP|Window glass type
+TINT|Tinted window glass
+REFL|Reflective window glass
+AWN|External overhangs or awnings
+SKYLT|Skylights or atriums
+DAYLTP|Percent daylight
+ZSQFT|Imputed square footage
+ZSQFTC|Imputed square footage category
+ZWLCNS|Imputed wall construction material
+ZRFCNS|Imputed roof construction material
+ZRFCOOL|Imputed cool roof materials
+ZRFTILT|Imputed roof tilt
+ZBLDSHP|Imputed building shape
+ZGLSSPC|Imputed percent exterior glass
+ZEQGLSS|Imputed equal glass on all sides
+ZSUNGLS|Imputed glass sides most sunlight
+ZNFLOOR|Imputed number of floors
+ZBASEMNT|Imputed number of underground floors
+ZFLCEILHT|Imputed floor to ceiling height
+ZATTIC|Imputed attic
+ZELEVTR|Imputed elevators
+ZNELVTR|Imputed number of elevators
+ZESCLTR|Imputed escalators
+ZNESLTR|Imputed number of escalators
+ZYRCON|Imputed year of construction
+ZYRCONC|Imputed year of construction category
+ZRENOV|Imputed any renovations
+ZRENADD|Imputed addition or annex
+ZRENRDC|Imputed reduction of floorspace
+ZRENCOS|Imputed cosmetic improvements
+ZRENINT|Imputed interior wall re-configuration
+ZRENRFF|Imputed roof replacement
+ZRENWLL|Imputed exterior wall replacement
+ZRENWIN|Imputed window replacement
+ZRENHVC|Imputed HVAC equipment upgrade
+ZRENLGT|Imputed lighting upgrade
+ZRENPLB|Imputed plumbing system upgrade
+ZRENELC|Imputed electrical upgrade
+ZRENINS|Imputed insulation upgrade
+ZRENSAF|Imputed fire, safety, or security upgrade
+ZRENSTR|Imputed structural upgrade
+ZRENOTH|Imputed other renovation
+ZDRYCL|Imputed dry cleaning onsite
+ZCUBE|Imputed open plan office space
+ZCUBEC|Imputed percent open plan
+ZCUBELOC|Imputed location of open plan
+ZRWSEAT|Imputed religious worship seating capacity
+ZPBSEAT|Imputed assembly seating capacity
+ZEDSEAT|Imputed number of classroom seats
+ZFDSEAT|Imputed food service seating capacity
+ZHCBED|Imputed licensed bed capacity
+ZNRSBED|Imputed licensed bed capacity
+ZLODGRM|Imputed number of guest rooms
+ZFACIL|Imputed on a multibuilding complex
+ZFEDFAC|Imputed federal complex
+ZFACACT|Imputed type of complex
+ZPLANT|Imputed central physical plant on complex
+ZFACDST|Imputed plant produces district steam
+ZFACDHW|Imputed plant produces district hot water
+ZFACDCW|Imputed plant produces district chilled water
+ZFACELC|Imputed plant produces electricity
+ZBLDPLT|Imputed central plant in building
+ZGOVOWN|Imputed government owned
+ZGOVTYP|Imputed type of government
+ZOWNTYPE|Imputed building owner
+ZNOCC|Imputed number of businesses
+ZNOCCAT|Imputed number of businesses category
+ZOWNOCC|Imputed owner occupied or leased to tenant(s)
+ZOWNOPR|Imputed owner responsible for operation and maintenance of energy systems
+ZOWNPPR|Imputed owner has purchasing power for energy-related equipment
+ZNWNPPR|Imputed nonowner with purchasing power for energy-related equipment
+ZNWNOPR|Imputed nonowner responsible for operation and maintenance of energy systems
+ZWHOPPR|Imputed who has purchasing power
+ZMONUSE|Imputed months in use
+ZOCCUPYP|Imputed percent occupancy
+ZLODOCCP|Imputed lodging room percent occupancy
+ZOPEN24|Imputed open 24 hours a day
+ZOPNMF|Imputed open during week
+ZOPNWE|Imputed open on weekend
+ZWKHRS|Imputed total hours open per week
+ZWKHRSC|Imputed weekly hours category
+ZNWKER|Imputed number of employees
+ZNWKERC|Imputed number of employees category
+ZHT1|Imputed energy used for main heating
+ZHT2|Imputed energy used for secondary heating
+ZCOOL|Imputed energy used for cooling
+ZWATR|Imputed energy used for water heating
+ZCOOK|Imputed energy used for cooking
+ZMANU|Imputed energy used for manufacturing
+ZCAPGEN|Imputed electricity generation capability
+ZGENR|Imputed energy used for electricity generation
+ZELUSED|Imputed electricity used
+ZNGUSED|Imputed natural gas used
+ZFKUSED|Imputed fuel oil/diesel/kerosene used
+ZPRUSED|Imputed bottled gas/LPG/propane used
+ZSTUSED|Imputed district steam used
+ZHWUSED|Imputed district hot water used
+ZCWUSED|Imputed district chilled water used
+ZWOUSED|Imputed wood used
+ZCOUSED|Imputed coal used
+ZSOUSED|Imputed solar used
+ZOTUSED|Imputed other energy source used
+ZELHT1|Imputed electricity used for main heating
+ZNGHT1|Imputed natural gas used for main heating
+ZFKHT1|Imputed fuel oil used for main heating
+ZPRHT1|Imputed propane used for main heating
+ZSTHT1|Imputed district steam used for main heating
+ZHWHT1|Imputed district hot water used for main heating
+ZWOHT1|Imputed wood used for main heating
+ZCOHT1|Imputed coal used for main heating
+ZSOHT1|Imputed solar used for main heating
+ZOTHT1|Imputed other source used for main heating
+ZELHT2|Imputed electricity used for secondary heating
+ZNGHT2|Imputed natural gas used for secondary heating
+ZFKHT2|Imputed fuel oil used for secondary heating
+ZPRHT2|Imputed propane used for secondary heating
+ZSTHT2|Imputed district steam used for secondary heating
+ZHWHT2|Imputed district hot water used for secondary heating
+ZWOHT2|Imputed wood used for secondary heating
+ZCOHT2|Imputed coal used for secondary heating
+ZSOHT2|Imputed solar used for secondary heating
+ZOTHT2|Imputed other source used for secondary heating
+ZHEATP|Imputed percent heated
+ZHTLS50|Imputed heated to less than 50 degrees
+ZFURNAC|Imputed furnaces that heat air directly
+ZPKGHT|Imputed packaged heating units
+ZBOILER|Imputed boilers inside the building
+ZSTHW|Imputed district steam or hot water piped in
+ZHTPMPH|Imputed heat pumps for heating
+ZSLFCON|Imputed individual space heaters
+ZOTHTEQ|Imputed other heating equipment
+ZFURNP|Imputed percent heated by furnace
+ZPKGHP|Imputed percent heated by packaged heating
+ZBOILP|Imputed percent heated by boiler
+ZSTHWP|Imputed percent heated by dist steam/hot water
+ZHTPHP|Imputed percent heated by heat pumps
+ZSLFCNP|Imputed percent heated by individual space heaters
+ZOTHTP|Imputed percent heated by other heating equipment
+ZMAINHT|Imputed main heating equipment
+ZNWMNHT|Imputed main heating replaced
+ZPKGHTTYP|Imputed type of packaged heating
+ZPKGFURN|Imputed packaged heating component: Furnace
+ZPKGHTP|Imputed packaged heating component: Heat pump
+ZPKGCOIL|Imputed packaged heating component: Heating coil
+ZPKGPIU|Imputed packaged heating component: Powered induction unit
+ZPKGDUCT|Imputed packaged heating component: Duct reheat
+ZBLRRAD|Imputed boiler system: Radiators
+ZBLRFNCL|Imputed boiler system: Fan coil units in rooms
+ZBLRINDC|Imputed boiler system: Induction units
+ZBLRLOOP|Imputed boiler system: Water loop heat pump
+ZBLRAIR|Imputed boiler system: Central air handler
+ZBLRPKG|Imputed boiler system: Packaged unit
+ZBLRDUCT|Imputed boiler system: Duct reheat
+ZDHRAD|Imputed district heat system: Radiators
+ZDHFNCL|Imputed district heat system: Fan coil units in rooms
+ZDHINDC|Imputed district heat system: Induction units
+ZDHLOOP|Imputed district heat system: Water loop heat pump
+ZDHAIR|Imputed district heat system: Central air handler
+ZDHPKG|Imputed district heat system: Packaged unit
+ZDHDUCT|Imputed district heat system: Duct reheat
+ZHPHPKG|Imputed heat pump heating system: Packaged unit
+ZHPHSPLT|Imputed heat pump heating system: Split system
+ZHPHROOM|Imputed heat pump heating system: Individual room heat pump
+ZHPHMINI|Imputed heat pump heating system: Ductless mini-split
+ZHPHVRF|Imputed heat pump heating system: Variable refrigerant flow
+ZHPHAIR|Imputed heat pump heating type: Air source
+ZHPHGRD|Imputed heat pump heating type: Ground source
+ZHPHDUAL|Imputed heat pump heating type: Dual source
+ZHPHWTR|Imputed heat pump heating type: Water loop
+ZHPHBKUP|Imputed heat pump backup energy source
+ZSHRDNT|Imputed individual heater: Infrared radiant
+ZSHBBRD|Imputed individual heater: Baseboard
+ZSHPORT|Imputed individual heater: Portable space heater
+ZSHWALL|Imputed individual heater: Wall heater
+ZSHFURN|Imputed individual heater: Individual furnace
+ZSHUNIT|Imputed individual heater: Unit heater
+ZSHPTAC|Imputed individual heater: Heating element in PTAC
+ZHTVCAV|Imputed heating ventilation: Central air handling with CAV
+ZHTVVAV|Imputed heating ventilation: Central air handling with VAV
+ZHTVFLR|Imputed heating ventilation: Underfloor air distribution
+ZHTVOAS|Imputed heating ventilation: Dedicated outside air system
+ZHTVDEM|Imputed heating ventilation: Demand controlled ventilation
+ZHTVNON|Imputed heating ventilation: None of these
+ZELCOOL|Imputed electricity used for cooling
+ZNGCOOL|Imputed natural gas used for cooling
+ZFKCOOL|Imputed fuel oil used for cooling
+ZPRCOOL|Imputed propane used for cooling
+ZSTCOOL|Imputed district steam  used for cooling
+ZHWCOOL|Imputed district hot water used for cooling
+ZCWCOOL|Imputed district chilled water used for cooling
+ZOTCOOL|Imputed other source used for cooling
+ZCOOLP|Imputed percent cooled
+ZRCAC|Imputed residential type central A/C
+ZPKGCL|Imputed packaged A/C units
+ZCHILLR|Imputed central chillers inside the building
+ZCHWT|Imputed district chilled water piped in
+ZHTPMPC|Imputed heat pumps for cooling
+ZACWNWL|Imputed individual room air conditioners
+ZEVAPCL|Imputed evaporative or swamp coolers
+ZOTCLEQ|Imputed other cooling equipment
+ZRCACP|Imputed percent cooled by central A/C
+ZPKGCP|Imputed percent cooled by packaged A/C units
+ZCHILP|Imputed percent cooled by central chillers
+ZCHWTP|Imputed percent cooled by district chilled water
+ZHTPCP|Imputed percent cooled by heat pumps
+ZACWNWP|Imputed percent cooled by individual room A/C
+ZEVAPP|Imputed percent cooled by swamp coolers
+ZOTCLP|Imputed percent cooled by other cooling equipment
+ZMAINCL|Imputed main cooling equipment
+ZNWMNCL|Imputed main cooling replaced
+ZPKGCLTYP|Imputed type of packaged cooling
+ZCHLAIRCL|Imputed chiller type: Air-cooled
+ZCHLWTRCL|Imputed chiller type: Water cooled
+ZCHLABSRP|Imputed chiller type: Absorption
+ZHTRCHLR|Imputed heater chiller
+ZCHLAIR|Imputed chiller system: Central air handler
+ZCHLFNCL|Imputed chiller system: Fan coil units in rooms
+ZCHLINDC|Imputed chiller system: Induction units
+ZCHLLOOP|Imputed chiller system: Water loop heat pump
+ZCHLBEAM|Imputed chiller system: Chilled beam
+ZCHLPKG|Imputed chiller system: Packaged unit
+ZCHLDUCT|Imputed chiller system: Duct reheat
+ZDCWAIR|Imputed district CW system: Central air handler
+ZDCWFNCL|Imputed district CW system: Fan coil units in rooms
+ZDCWINDC|Imputed district CW system: Induction units
+ZDCWLOOP|Imputed district CW system: Water loop heat pump
+ZDCWBEAM|Imputed district CW system: Chilled beam
+ZDCWPKG|Imputed district CW system: Packaged unit
+ZDCWDUCT|Imputed district CW system: Duct reheat
+ZHPCPKG|Imputed heat pump cooling system: Packaged unit
+ZHPCSPLT|Imputed heat pump cooling system: Split system
+ZHPCROOM|Imputed heat pump cooling system: Individual room heat pump
+ZHPCMINI|Imputed heat pump cooling system: Ductless mini-split
+ZHPCVRF|Imputed heat pump cooling system: Variable refrigerant flow
+ZHPCAIR|Imputed heat pump cooling type: Air source
+ZHPCGRD|Imputed heat pump cooling type: Ground source
+ZHPCDUAL|Imputed heat pump cooling type: Dual source
+ZHPCWTR|Imputed heat pump cooling type: Water loop
+ZCLVCAV|Imputed cooling ventilation: Central air-handling unit with CAV
+ZCLVVAV|Imputed cooling ventilation: Central air-handling unit with VAV
+ZCLVFLR|Imputed cooling ventilation: Underfloor air distribution
+ZCLVOAS|Imputed cooling ventilation: Dedicated outside air system
+ZCLVDEM|Imputed cooling ventilation: Demand controlled ventilation
+ZCLVNON|Imputed cooling ventilation: None of these types
+ZEMCS|Imputed building automation system (BAS)
+ZRDHTNF|Imputed heating reduced during 24 hour period
+ZHWRDHT|Imputed how reduce heating
+ZRDCLNF|Imputed cooling reduced during 24 hour period
+ZHWRDCL|Imputed how reduce cooling
+ZECN|Imputed economizer cycle
+ZECNTYPE|Imputed type of economizer
+ZMAINT|Imputed regular HVAC maintenance
+ZELWATR|Imputed electricity used for water heating
+ZNGWATR|Imputed natural gas used for water heating
+ZFKWATR|Imputed fuel oil used for water heating
+ZPRWATR|Imputed propane used for water heating
+ZSTWATR|Imputed district steam used for water heating
+ZHWWATR|Imputed district hot water used for water heating
+ZWOWATR|Imputed wood used for water heating
+ZCOWATR|Imputed coal used for water heating
+ZSOWATR|Imputed solar used for water heating
+ZOTWATR|Imputed other source used for water heating
+ZWTHTEQ|Imputed water heating equipment
+ZBOOSTWT|Imputed booster water heaters
+ZINSTWT|Imputed instant hot water
+ZELCOOK|Imputed electricity used for cooking
+ZNGCOOK|Imputed natural gas used for cooking
+ZFKCOOK|Imputed fuel oil used for cooking
+ZPRCOOK|Imputed propane used for cooking
+ZSTCOOK|Imputed district steam used for cooking
+ZHWCOOK|Imputed district hot water used for cooking
+ZWOCOOK|Imputed wood used for cooking
+ZCOCOOK|Imputed coal used for cooking
+ZSOCOOK|Imputed solar used for cooking
+ZOTCOOK|Imputed other source used for cooking
+ZELMANU|Imputed electricity used for manufacturing
+ZNGMANU|Imputed natural gas used for manufacturing
+ZFKMANU|Imputed fuel oil used for manufacturing
+ZPRMANU|Imputed propane used for manufacturing
+ZSTMANU|Imputed district steam used for manufacturing
+ZHWMANU|Imputed district hot water used for manufacturing
+ZWOMANU|Imputed wood used for manufacturing
+ZCOMANU|Imputed coal used for manufacturing
+ZSOMANU|Imputed solar used for manufacturing
+ZOTMANU|Imputed other source used for manufacturing
+ZNGGENR|Imputed natural gas used for electricity generation
+ZFKGENR|Imputed fuel oil used for electricity generation
+ZPRGENR|Imputed propane used for electricity generation
+ZWOGENR|Imputed wood used for electricity generation
+ZCOGENR|Imputed coal used for electricity generation
+ZSOGENR|Imputed solar used for electricity generation
+ZOTGENR|Imputed other source used for electricity generation
+ZPVC|Imputed photovoltaic cells
+ZFUELCL|Imputed fuel cells
+ZLRGTRB|Imputed large turbines
+ZMCROTB|Imputed microturbines
+ZENGINE|Imputed reciprocating engines
+ZGENUSE|Imputed use of generated electricity
+ZCOGEN|Imputed cogeneration system
+ZTOGRID|Imputed deliver electricity to grid
+ZPRAMTC|Imputed bottled gas amount
+ZWOAMT|Imputed amount wood burned
+ZWOSRC|Imputed how obtain wood
+ZWOEXP|Imputed expenditures for wood
+ZWOEXPC|Imputed wood expenditures category
+ZENRGYPLN|Imputed energy management plan
+ZSNACK|Imputed snack bar or concession stand
+ZFASTFD|Imputed fast food or small restaurant
+ZCAF|Imputed cafeteria or large restaurant
+ZFDPREP|Imputed commercial or large kitchen
+ZKITCHN|Imputed small kitchen area
+ZBREAKRM|Imputed employee lounge, breakroom, or pantry
+ZOTFDRM|Imputed other food prep or serving area
+ZHWTRM|Imputed large amounts of hot water
+ZLAUNDR|Imputed laundry onsite
+ZCONFSP|Imputed conference or event space
+ZCONFSPP|Imputed percent conference or event space
+ZMEDEQP|Imputed medical equipment
+ZXRAYN|Imputed number of X-ray machines
+ZCTSCAN|Imputed CT scan machines
+ZMRI|Imputed MRI machines
+ZLINACC|Imputed linear accelerators
+ZOUTSURG|Imputed operating rooms for outpatient surgery
+ZLABEQP|Imputed laboratory equipment
+ZMCHEQP|Imputed machine equipment
+ZPOOL|Imputed indoor swimming pool
+ZHTPOOL|Imputed heated indoor swimming pool
+ZPOOLSRC|Imputed pool energy source
+ZSTRLZR|Imputed sterilizers or autoclaves
+ZRFGEQP|Imputed refrigeration
+ZRFGRES|Imputed full-size residential-type refrigerator
+ZRFGCOMP|Imputed half-size or compact refrigerators
+ZRFGWI|Imputed walk-in refrigeration units
+ZRFGOP|Imputed open case refrigeration units
+ZRFGCL|Imputed closed case refrigeration units
+ZRFGVEN|Imputed refrigerated vending machines
+ZRFGICE|Imputed commercial ice makers
+ZRFGSTO|Imputed large cold storage areas
+ZRFGRSN|Imputed number of residential refrigerators
+ZRFGCOMPN|Imputed number of compact refrigerators
+ZRFGWIN|Imputed number of walk-in units
+ZRFGOPN|Imputed number of open case refrigeration units
+ZRFGCLN|Imputed number of closed case refrigeration units
+ZRFGVNN|Imputed number of refrigerated vending machines
+ZRFGICN|Imputed number of ice makers
+ZRFGSTP|Imputed percent cold storage
+ZWHRECOV|Imputed waste heat recovery
+ZWHHT2|Imputed waste heat used for secondary heating
+ZWHWT|Imputed waste heat used for water heating
+ZWHOT|Imputed waste heat used for some other use
+ZPCTERM|Imputed computers used
+ZPCTERMN|Imputed number of computers
+ZPCTRMC|Imputed number of computers category
+ZMLTMON|Imputed multiple monitors
+ZMLTMNC|Imputed multiple monitor category
+ZFLATC|Imputed flat screen category
+ZLAPTPN|Imputed number of laptops
+ZLAPTPC|Imputed number of laptops category
+ZPRNTRN|Imputed number of printers
+ZPRNTYP|Imputed type of printers
+ZSERVER|Imputed dedicated servers
+ZSERVERN|Imputed number of servers
+ZSERVERC|Imputed number of servers category
+ZDATACNTR|Imputed data center or server farm
+ZDCNTRSFC|Imputed data center or server farm sqft category
+ZTRNGRM|Imputed computer-based training room
+ZSTDNRM|Imputed student or public computer center
+ZWBOARDS|Imputed interactive whiteboards
+ZTVVIDEO|Imputed TV or video displays
+ZTVVIDEON|Imputed number of TV or video displays
+ZRGSTR|Imputed cash registers
+ZRGSTRN|Imputed number of cash registers
+ZCOPIER|Imputed photocopiers
+ZCOPIERN|Imputed number of photocopiers
+ZFAX|Imputed FAX machines
+ZLTOHRP|Imputed percent lit when open
+ZLOHRPC|Imputed lit when open category
+ZLTNR24|Imputed lights off during 24 hours
+ZLTNHRP|Imputed percent lit off hours
+ZLNHRPC|Imputed lit off hours category
+ZRDLTNF|Imputed lighting reduced during off hours
+ZFLUOR|Imputed fluorescent bulbs
+ZCFLR|Imputed compact fluorescent bulbs
+ZBULB|Imputed incandescent bulbs
+ZHALO|Imputed halogen bulbs
+ZHID|Imputed high intensity discharge (HID) bulbs
+ZLED|Imputed light-emitting diode (LED) bulbs
+ZOTLT|Imputed other type of bulbs
+ZFLUORP|Imputed percent lit by fluorescent
+ZCFLRP|Imputed percent lit by compact fluorescent
+ZBULBP|Imputed percent lit by incandescent
+ZHALOP|Imputed percent lit by halogen
+ZHIDP|Imputed percent lit by HID
+ZLEDP|Imputed percent lit by LED
+ZOTLTP|Imputed percent lit by other lighting
+ZEMCSLT|Imputed BAS controls lighting
+ZSCHED|Imputed light scheduling
+ZOCSN|Imputed occupancy sensors
+ZDIM|Imputed multi-level lighting or dimming
+ZDAYHARV|Imputed daylight harvesting
+ZTRIM|Imputed high-end trimming or light-level tuning
+ZPLGCTRL|Imputed plug load control
+ZDRLGHT|Imputed demand responsive lighting
+ZLTEXPC|Imputed percent of exterior lighted
+ZPKLT|Imputed lighted parking area
+ZWINTYP|Imputed window glass type
+ZTINT|Imputed tinted window glass
+ZREFL|Imputed reflective window glass
+ZAWN|Imputed external overhangs or awnings
+ZSKYLT|Imputed skylights or atriums
+ZDAYLTP|Imputed percent daylight
+FINALWT|Final full sample building weight
+FINALWT1|Final replicate weight 1
+FINALWT2|Final replicate weight 2
+FINALWT3|Final replicate weight 3
+FINALWT4|Final replicate weight 4
+FINALWT5|Final replicate weight 5
+FINALWT6|Final replicate weight 6
+FINALWT7|Final replicate weight 7
+FINALWT8|Final replicate weight 8
+FINALWT9|Final replicate weight 9
+FINALWT10|Final replicate weight 10
+FINALWT11|Final replicate weight 11
+FINALWT12|Final replicate weight 12
+FINALWT13|Final replicate weight 13
+FINALWT14|Final replicate weight 14
+FINALWT15|Final replicate weight 15
+FINALWT16|Final replicate weight 16
+FINALWT17|Final replicate weight 17
+FINALWT18|Final replicate weight 18
+FINALWT19|Final replicate weight 19
+FINALWT20|Final replicate weight 20
+FINALWT21|Final replicate weight 21
+FINALWT22|Final replicate weight 22
+FINALWT23|Final replicate weight 23
+FINALWT24|Final replicate weight 24
+FINALWT25|Final replicate weight 25
+FINALWT26|Final replicate weight 26
+FINALWT27|Final replicate weight 27
+FINALWT28|Final replicate weight 28
+FINALWT29|Final replicate weight 29
+FINALWT30|Final replicate weight 30
+FINALWT31|Final replicate weight 31
+FINALWT32|Final replicate weight 32
+FINALWT33|Final replicate weight 33
+FINALWT34|Final replicate weight 34
+FINALWT35|Final replicate weight 35
+FINALWT36|Final replicate weight 36
+FINALWT37|Final replicate weight 37
+FINALWT38|Final replicate weight 38
+FINALWT39|Final replicate weight 39
+FINALWT40|Final replicate weight 40
+FINALWT41|Final replicate weight 41
+FINALWT42|Final replicate weight 42
+FINALWT43|Final replicate weight 43
+FINALWT44|Final replicate weight 44
+FINALWT45|Final replicate weight 45
+FINALWT46|Final replicate weight 46
+FINALWT47|Final replicate weight 47
+FINALWT48|Final replicate weight 48
+FINALWT49|Final replicate weight 49
+FINALWT50|Final replicate weight 50
+FINALWT51|Final replicate weight 51
+FINALWT52|Final replicate weight 52
+FINALWT53|Final replicate weight 53
+FINALWT54|Final replicate weight 54
+FINALWT55|Final replicate weight 55
+FINALWT56|Final replicate weight 56
+FINALWT57|Final replicate weight 57
+FINALWT58|Final replicate weight 58
+FINALWT59|Final replicate weight 59
+FINALWT60|Final replicate weight 60
+FINALWT61|Final replicate weight 61
+FINALWT62|Final replicate weight 62
+FINALWT63|Final replicate weight 63
+FINALWT64|Final replicate weight 64
+FINALWT65|Final replicate weight 65
+FINALWT66|Final replicate weight 66
+FINALWT67|Final replicate weight 67
+FINALWT68|Final replicate weight 68
+FINALWT69|Final replicate weight 69
+FINALWT70|Final replicate weight 70
+FINALWT71|Final replicate weight 71
+FINALWT72|Final replicate weight 72
+FINALWT73|Final replicate weight 73
+FINALWT74|Final replicate weight 74
+FINALWT75|Final replicate weight 75
+FINALWT76|Final replicate weight 76
+FINALWT77|Final replicate weight 77
+FINALWT78|Final replicate weight 78
+FINALWT79|Final replicate weight 79
+FINALWT80|Final replicate weight 80
+FINALWT81|Final replicate weight 81
+FINALWT82|Final replicate weight 82
+FINALWT83|Final replicate weight 83
+FINALWT84|Final replicate weight 84
+FINALWT85|Final replicate weight 85
+FINALWT86|Final replicate weight 86
+FINALWT87|Final replicate weight 87
+FINALWT88|Final replicate weight 88
+FINALWT89|Final replicate weight 89
+FINALWT90|Final replicate weight 90
+FINALWT91|Final replicate weight 91
+FINALWT92|Final replicate weight 92
+FINALWT93|Final replicate weight 93
+FINALWT94|Final replicate weight 94
+FINALWT95|Final replicate weight 95
+FINALWT96|Final replicate weight 96
+FINALWT97|Final replicate weight 97
+FINALWT98|Final replicate weight 98
+FINALWT99|Final replicate weight 99
+FINALWT100|Final replicate weight 100
+FINALWT101|Final replicate weight 101
+FINALWT102|Final replicate weight 102
+FINALWT103|Final replicate weight 103
+FINALWT104|Final replicate weight 104
+FINALWT105|Final replicate weight 105
+FINALWT106|Final replicate weight 106
+FINALWT107|Final replicate weight 107
+FINALWT108|Final replicate weight 108
+FINALWT109|Final replicate weight 109
+FINALWT110|Final replicate weight 110
+FINALWT111|Final replicate weight 111
+FINALWT112|Final replicate weight 112
+FINALWT113|Final replicate weight 113
+FINALWT114|Final replicate weight 114
+FINALWT115|Final replicate weight 115
+FINALWT116|Final replicate weight 116
+FINALWT117|Final replicate weight 117
+FINALWT118|Final replicate weight 118
+FINALWT119|Final replicate weight 119
+FINALWT120|Final replicate weight 120
+FINALWT121|Final replicate weight 121
+FINALWT122|Final replicate weight 122
+FINALWT123|Final replicate weight 123
+FINALWT124|Final replicate weight 124
+FINALWT125|Final replicate weight 125
+FINALWT126|Final replicate weight 126
+FINALWT127|Final replicate weight 127
+FINALWT128|Final replicate weight 128
+FINALWT129|Final replicate weight 129
+FINALWT130|Final replicate weight 130
+FINALWT131|Final replicate weight 131
+FINALWT132|Final replicate weight 132
+FINALWT133|Final replicate weight 133
+FINALWT134|Final replicate weight 134
+FINALWT135|Final replicate weight 135
+FINALWT136|Final replicate weight 136
+FINALWT137|Final replicate weight 137
+FINALWT138|Final replicate weight 138
+FINALWT139|Final replicate weight 139
+FINALWT140|Final replicate weight 140
+FINALWT141|Final replicate weight 141
+FINALWT142|Final replicate weight 142
+FINALWT143|Final replicate weight 143
+FINALWT144|Final replicate weight 144
+FINALWT145|Final replicate weight 145
+FINALWT146|Final replicate weight 146
+FINALWT147|Final replicate weight 147
+FINALWT148|Final replicate weight 148
+FINALWT149|Final replicate weight 149
+FINALWT150|Final replicate weight 150
+FINALWT151|Final replicate weight 151
+FINALWT152|Final replicate weight 152
+FINALWT153|Final replicate weight 153
+FINALWT154|Final replicate weight 154
+FINALWT155|Final replicate weight 155
+FINALWT156|Final replicate weight 156
+FINALWT157|Final replicate weight 157
+FINALWT158|Final replicate weight 158
+FINALWT159|Final replicate weight 159
+FINALWT160|Final replicate weight 160
+FINALWT161|Final replicate weight 161
+FINALWT162|Final replicate weight 162
+FINALWT163|Final replicate weight 163
+FINALWT164|Final replicate weight 164
+FINALWT165|Final replicate weight 165
+FINALWT166|Final replicate weight 166
+FINALWT167|Final replicate weight 167
+FINALWT168|Final replicate weight 168
+FINALWT169|Final replicate weight 169
+FINALWT170|Final replicate weight 170
+FINALWT171|Final replicate weight 171
+FINALWT172|Final replicate weight 172
+FINALWT173|Final replicate weight 173
+FINALWT174|Final replicate weight 174
+FINALWT175|Final replicate weight 175
+FINALWT176|Final replicate weight 176
+FINALWT177|Final replicate weight 177
+FINALWT178|Final replicate weight 178
+FINALWT179|Final replicate weight 179
+FINALWT180|Final replicate weight 180
+FINALWT181|Final replicate weight 181
+FINALWT182|Final replicate weight 182
+FINALWT183|Final replicate weight 183
+FINALWT184|Final replicate weight 184
+FINALWT185|Final replicate weight 185
+FINALWT186|Final replicate weight 186
+FINALWT187|Final replicate weight 187
+FINALWT188|Final replicate weight 188
+FINALWT189|Final replicate weight 189
+FINALWT190|Final replicate weight 190
+FINALWT191|Final replicate weight 191
+FINALWT192|Final replicate weight 192
+FINALWT193|Final replicate weight 193
+FINALWT194|Final replicate weight 194
+FINALWT195|Final replicate weight 195
+FINALWT196|Final replicate weight 196
+FINALWT197|Final replicate weight 197
+HDD65|Heating degree days (base 65)
+CDD65|Cooling degree days (base 65)
+MFUSED|Any major fuel used
+MFBTU|Annual major fuel consumption (thous Btu)
+MFEXP|Annual major fuel expenditures ($)
+ELCNS|Annual electricity consumption (kWh)
+ELBTU|Annual electricity consumption (thous Btu)
+ELEXP|Annual electricity expenditures ($)
+NGCNS|Annual natural gas consumption (ccf)
+NGBTU|Annual natural gas consumption (thous Btu)
+NGEXP|Annual natural gas expenditures ($)
+FKCNS|Annual fuel oil consumption (gallons)
+FKBTU|Annual fuel oil consumption (thous Btu)
+FKEXP|Annual fuel oil expenditures ($)
+DHUSED|District heat (steam or hot water) used
+DHHT1|District heat used for main heating
+DHHT2|District heat used for secondary heating
+DHCOOL|District heat used for cooling
+DHCOOK|District heat used for cooking
+DHWATR|District heat used for water heating
+DHMANU|District heat used for manufacturing
+DHOTH|District heat used for some other use
+DHCNS|Annual district heat consumption (thous lbs)
+DHBTU|Annual district heat consumption (thous Btu)
+DHEXP|Annual district heat expenditures ($)
+ZMFBTU|Imputed major fuels consumption
+ZMFEXP|Imputed major fuels expenditures
+ZELCNS|Imputed electricity consumption
+ZELEXP|Imputed electricity expenditures
+ZNGCNS|Imputed natural gas consumption
+ZNGEXP|Imputed natural gas expenditures
+ZFKCNS|Imputed fuel oil consumption
+ZFKEXP|Imputed fuel oil expenditures
+ZDHCNS|Imputed district heat consumption
+ZDHEXP|Imputed district heat expenditures
+MFHTBTU|Major fuel heating use (thous Btu)
+MFCLBTU|Major fuel cooling use (thous Btu)
+MFVNBTU|Major fuel ventilation use (thous Btu)
+MFWTBTU|Major fuel water heating use (thous Btu)
+MFLTBTU|Major fuel lighting use (thous Btu)
+MFCKBTU|Major fuel cooking use (thous Btu)
+MFRFBTU|Major fuel refrigeration use (thous Btu)
+MFOFBTU|Major fuel office equipment use (thous Btu)
+MFPCBTU|Major fuel computing use (thous Btu)
+MFOTBTU|Major fuel miscellaneous use (thous Btu)
+ELHTBTU|Electricity heating use (thous Btu)
+ELCLBTU|Electricity cooling use (thous Btu)
+ELVNBTU|Electricity ventilation use (thous Btu)
+ELWTBTU|Electricity water heating use (thous Btu)
+ELLTBTU|Electricity lighting use (thous Btu)
+ELCKBTU|Electricity cooking use (thous Btu)
+ELRFBTU|Electricity refrigeration use (thous Btu)
+ELOFBTU|Electricity office equipment use (thous Btu)
+ELPCBTU|Electricity computing use (thous Btu)
+ELOTBTU|Electricity miscellaneous use (thous Btu)
+NGHTBTU|Natural gas heating use (thous Btu)
+NGCLBTU|Natural gas cooling use (thous Btu)
+NGWTBTU|Natural gas water heating use (thous Btu)
+NGCKBTU|Natural gas cooking use (thous Btu)
+NGOTBTU|Natural gas miscellaneous use (thous Btu)
+FKHTBTU|Fuel oil heating use (thous Btu)
+FKCLBTU|Fuel oil cooling use (thous Btu)
+FKWTBTU|Fuel oil water heating use (thous Btu)
+FKCKBTU|Fuel oil cooking use (thous Btu)
+FKOTBTU|Fuel oil miscellaneous use (thous Btu)
+DHHTBTU|District heat heating use (thous Btu)
+DHCLBTU|District heat cooling use (thous Btu)
+DHWTBTU|District heat water heating use (thous Btu)
+DHCKBTU|District heat cooking use (thous Btu)
+DHOTBTU|District heat miscellaneous use (thous Btu)
+PUBCLIM|Building America climate region
