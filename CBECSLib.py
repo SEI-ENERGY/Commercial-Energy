@@ -181,3 +181,54 @@ def getDataSubset(X,Y,classVals,label):
 def getDataSubsetWithClassvals(X,Y,classVals,label):
     mask = classVals == label
     return X[mask,:].copy(), Y[mask].copy(), classVals[mask].copy()
+
+
+regressors = [
+    LinearRegression(n_jobs=-1),
+    Ridge(),
+    SVR(),
+    Lasso(),
+    ElasticNet(),
+    LinearSVR(verbose=0),
+    AdaBoostRegressor(),
+    BaggingRegressor(n_jobs=-1),
+    GradientBoostingRegressor(verbose=0),
+    RandomForestRegressor(n_jobs=-1, verbose=0),
+    ExtraTreesRegressor(n_jobs=-1, verbose=0),
+    MLPRegressor(),
+    KNeighborsRegressor()    
+]
+regressorNames = [
+    "Linear Regression",
+    "Ridge Regressor",
+    "SVR",
+    "Lasso",
+    "ElasticNet",
+    "Linear SVR",
+    "AdaBoost",
+    "Bagging",
+    "XGBoost",
+    "Random Forest Regressor",
+    "Extra Trees Regressor",
+    "MLP Regressor",
+    "KNN Regressor"
+]
+assert len(regressors) == len(regressorNames)
+numRegressors = len(regressors)
+
+metrics = [
+    mean_absolute_error,
+    lambda y_true, y_pred: 10.0 ** mean_absolute_error(y_true, y_pred),
+    median_absolute_error,
+    lambda y_true, y_pred: 10.0 ** median_absolute_error(y_true, y_pred),
+    r2_score
+]
+metricNames = [
+    "Mean Absolute Error",
+    "10^Mean AE",
+    "Median Absolute Error",
+    "10^Median AE",
+    "$r^2$"
+]
+assert len(metrics) == len(metricNames)
+numMetrics = len(metrics)
