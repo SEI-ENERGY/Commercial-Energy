@@ -10,6 +10,8 @@ from sklearn.svm import LinearSVR, SVR
 from sklearn.neural_network import MLPRegressor
 from sklearn.neighbors import KNeighborsRegressor
 
+from sklearn.metrics import mean_absolute_error, median_absolute_error, r2_score
+
 pbaLabels = {
     1 : 'Vacant',
     2 : 'Office',
