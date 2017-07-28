@@ -3,6 +3,13 @@ import pandas as pd
 
 from collections import defaultdict, Counter
 
+from sklearn.linear_model import LinearRegression, Ridge
+from sklearn.linear_model import Lasso, ElasticNet, SGDRegressor
+from sklearn.ensemble import AdaBoostRegressor, BaggingRegressor, GradientBoostingRegressor, RandomForestRegressor, ExtraTreesRegressor
+from sklearn.svm import LinearSVR, SVR
+from sklearn.neural_network import MLPRegressor
+from sklearn.neighbors import KNeighborsRegressor
+
 pbaLabels = {
     1 : 'Vacant',
     2 : 'Office',
