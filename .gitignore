@@ -1,2 +1,10 @@
 *.pyc
+
 .ipynb_checkpoints/
+.vscode/
+results/
+output/
+paper/
+data/nyc/BORO_zip_files_csv/
+data/nyc/shapefiles/
+data/*.npy
