@@ -36,7 +36,7 @@ Because of the large sizes of the PLUTO and LL84 datasets we do not include them
 
 
 ### Option 1 (Dropbox copy)
-- Download a prepared zip file of the PLUTO and LL84 data from [here](https://www.dropbox.com/s/uefktqmsj63z387/nyc.zip?dl=0).
+- Download a prepared zip file of the PLUTO and LL84 data from [here](https://u45223629.dl.dropboxusercontent.com/u/45223629/nyc.zip).
 - Unzip this file to `data/nyc/`. There should now be two subdirectores in `data/nyc/`: "BORO_zip_files_csv" and "shapefiles".
 
 
